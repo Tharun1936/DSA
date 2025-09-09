@@ -1,0 +1,20 @@
+to print name n times using recusrion
+#include <iostream>
+using namespace std;
+
+void name(int i,int n){
+    
+    if(i<n){
+        return;
+    }
+    cout<<"Tharun"<<endl;
+    name(i+1,n);
+
+}
+
+int main(){
+    int n;
+    int i=1;
+    cin>>n;
+    name(i,n);
+}
