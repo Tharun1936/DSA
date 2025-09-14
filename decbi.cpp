@@ -1,6 +1,6 @@
-//decimal to binary
-// #include<iostream>
-// using namespace std;
+//decimal to binary.
+// #include<iostream>.
+// using namespace std;.
 // int dectobi(int decnum){
 //     int ans=0;
 //     int pow=1;
@@ -47,4 +47,5 @@ using namespace std;
 int main(){
     int a=7;
     cout<<(a>>1)<<endl;
+
 }
