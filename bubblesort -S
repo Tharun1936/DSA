@@ -7,9 +7,9 @@ void bubble_sort(int arr[],int n){
       swap(arr[j+1],arr[i]);
         didswap=1;
     }
-  }
-  if(didswap==0){
+    if(didswap==0){
     return 0;
+  }
   }
 }
 
