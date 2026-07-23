@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tharun1936/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tharun1936/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tharun1936/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
