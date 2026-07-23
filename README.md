@@ -9,10 +9,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tharun1936/DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tharun1936/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tharun1936/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tharun1936/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
@@ -26,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tharun1936/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tharun1936/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
