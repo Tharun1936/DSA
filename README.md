@@ -12,12 +12,14 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tharun1936/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Tharun1936/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Tharun1936/DSA/tree/master/0739-daily-temperatures) |
 ## Array
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tharun1936/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Tharun1936/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Tharun1936/DSA/tree/master/0739-daily-temperatures) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tharun1936/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
@@ -27,6 +29,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Tharun1936/DSA/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
