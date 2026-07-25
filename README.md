@@ -35,6 +35,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tharun1936/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tharun1936/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tharun1936/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Tharun1936/DSA/tree/master/0735-asteroid-collision) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Tharun1936/DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
