@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tharun1936/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Tharun1936/DSA/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tharun1936/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Tharun1936/DSA/tree/master/3536-maximum-product-of-two-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tharun1936/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
