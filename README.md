@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Tharun1936/DSA/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tharun1936/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Tharun1936/DSA/tree/master/0735-asteroid-collision) |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tharun1936/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Tharun1936/DSA/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Tharun1936/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
