@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Tharun1936/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Tharun1936/DSA/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tharun1936/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Tharun1936/DSA/tree/master/0055-jump-game) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Tharun1936/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
