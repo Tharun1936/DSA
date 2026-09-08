@@ -23,6 +23,7 @@
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Tharun1936/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tharun1936/DSA/tree/master/0739-daily-temperatures) |
+| [1052-grumpy-bookstore-owner](https://github.com/Tharun1936/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tharun1936/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tharun1936/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/Tharun1936/DSA/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
