@@ -20,6 +20,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Tharun1936/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Tharun1936/DSA/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tharun1936/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/Tharun1936/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Tharun1936/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tharun1936/DSA/tree/master/0739-daily-temperatures) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tharun1936/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/Tharun1936/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -52,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Tharun1936/DSA/tree/master/0217-contains-duplicate) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tharun1936/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
