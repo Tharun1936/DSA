@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tharun1936/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tharun1936/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Tharun1936/DSA/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tharun1936/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tharun1936/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tharun1936/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Tharun1936/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Tharun1936/DSA/tree/master/0496-next-greater-element-i) |
